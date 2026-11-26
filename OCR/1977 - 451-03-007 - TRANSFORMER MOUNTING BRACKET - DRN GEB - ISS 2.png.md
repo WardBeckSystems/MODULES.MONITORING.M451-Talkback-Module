@@ -34,7 +34,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Words (OCR):** 42 in 34 lines: 2.50 · 96 · 38 · 328 DIA · PLACE $ · 1.920 · '290 · 20 · 2 - 56 TAD · 2 PLACES · IISS MOD CKD_ · USED ON
 - **Title block:** (140, 13)–(412, 64) mm: IISS MOD CKD_ · USED ON · MATL. · WBS · WARD-BECK sysTEMs LTD · 18 GA CRS · (.043 Thk: ) DRN_ · SEB · M45I · DATE ALs 7Z · TRANSFORMER · FINISH · CKD · MountinG · BRACKET · CAD. · PLATE · ScALE 2u · 8
 
-Every curve, box, word and wire group: [1977 - 451-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).json](../MECHANICAL/1977%20-%20451-03-007%20-%20TRANSFORMER%20MOUNTING%20BRACKET%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1977 - 451-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 451-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).json](../MECHANICAL/1977%20-%20451-03-007%20-%20TRANSFORMER%20MOUNTING%20BRACKET%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1977 - 451-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -11,6 +11,19 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Size:** 539,591 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 311 × 432 mm, 1440 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–311 mm across, 0–431 mm up
+- **Outlines:** line 92 rings, 1,847 straight (4,393 mm) / 280 curved (417 mm); text 229 rings, 1,448 straight (1,309 mm) / 611 curved (787 mm); tb 78 rings, 1,151 straight (2,357 mm) / 213 curved (373 mm)
+- **Centre lines:** 2,557 paths (57 closed); straight 4,734 mm, curved 75.4 mm; horizontal 2,118 mm, vertical 1,292 mm, diagonal 1,324 mm
+- **Circles and arcs:** 1 circles, 21 arcs; largest r 1.0 @ (251.0, 211.7)
+- **Closed boxes:** 13; named: controi RlS: Controls Jeve | LEvEL Ihe s; These SELECTOR SuI shitches shitches Jot; OScILLATOR shitch dpressed; Ene osc i Ma; bl; ERC; 451-04-004
+- **Words (OCR):** 49 in 30 lines: WBS · 4451 · LEvEL · controi RlS: Controls Ihe sign3 · Jeve | · Moou · outputs · Jot the se lective out · SELECTOR shitches · SuI · These shitches · four
+- **Title block:** (128, 26)–(249, 322) mm: WBS · 4451 · LEvEL · controi RlS: Controls Ihe sign3 · Moou · outputs · Jot the se lective out · SELECTOR shitches · SuI · four · different locat ons. · OScILLATOR shitch · 25h · osc i Mator activated
+
+Every curve, box, word and wire group: [1977 - M451 - P13 - Front Panel (traced).json](../MECHANICAL/1977%20-%20M451%20-%20P13%20-%20Front%20Panel%20%28traced%29.json) (the CAD file: `1977 - M451 - P13 - Front Panel (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 9 words corrected)

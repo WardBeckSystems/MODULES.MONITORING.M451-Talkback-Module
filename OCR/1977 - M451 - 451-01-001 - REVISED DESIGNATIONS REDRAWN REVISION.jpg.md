@@ -27,7 +27,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Title block:** (274, 0)–(432, 81) mm: 10/77 · REVISED · DESIGNATIONS · 9/77 · REDRAWN · Lr · ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRNPMAL · M451 · ENG_ RKB · Rul · TALKBACK MODULE · CKD · FUNCTIONAL DIAGRAM · APP · SCA
 - **Wiring (first pass):** 109 connected wire groups from 231 runs; labelled ends: 156 mm → LEVEL; 151 mm → INSERT, +8 dBm; 98 mm → 10/77, Lr; 52 mm → BST, LEVEL; 44 mm → 25 Hz, OSC
 
-Every curve, box, word and wire group: [1977 - M451 - 451-01-001 - REVISED DESIGNATIONS REDRAWN REVISION (traced).json](../SCHEMATICS/1977%20-%20M451%20-%20451-01-001%20-%20REVISED%20DESIGNATIONS%20REDRAWN%20REVISION%20(traced).json) (the CAD file: `1977 - M451 - 451-01-001 - REVISED DESIGNATIONS REDRAWN REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - 451-01-001 - REVISED DESIGNATIONS REDRAWN REVISION (traced).json](../SCHEMATICS/1977%20-%20M451%20-%20451-01-001%20-%20REVISED%20DESIGNATIONS%20REDRAWN%20REVISION%20%28traced%29.json) (the CAD file: `1977 - M451 - 451-01-001 - REVISED DESIGNATIONS REDRAWN REVISION (traced).dxf`).
 
 ## Full text
 

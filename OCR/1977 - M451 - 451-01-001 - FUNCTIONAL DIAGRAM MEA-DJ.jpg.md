@@ -21,7 +21,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Closed boxes:** 22
 - **Wiring (first pass):** 118 connected wire groups from 407 runs
 
-Every curve, box, word and wire group: [1977 - M451 - 451-01-001 - FUNCTIONAL DIAGRAM MEA-DJ (traced).json](../SCHEMATICS/1977%20-%20M451%20-%20451-01-001%20-%20FUNCTIONAL%20DIAGRAM%20MEA-DJ%20(traced).json) (the CAD file: `1977 - M451 - 451-01-001 - FUNCTIONAL DIAGRAM MEA-DJ (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - 451-01-001 - FUNCTIONAL DIAGRAM MEA-DJ (traced).json](../SCHEMATICS/1977%20-%20M451%20-%20451-01-001%20-%20FUNCTIONAL%20DIAGRAM%20MEA-DJ%20%28traced%29.json) (the CAD file: `1977 - M451 - 451-01-001 - FUNCTIONAL DIAGRAM MEA-DJ (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Words (OCR):** 47 in 40 lines: '700 TYP · 350 Tre · 250 · EXT · EXT · 1.038 · AUX · FB3/4 · MON · 2.864 · 2.6614 · FB1/2
 - **Title block:** (268, 14)–(377, 62) mm: WBS WAAD-BECK BySTEMS · DRN; · DESIGNATIOU steip · DATE OT76 · CKD · Masi · SCALE · 01= · 451-03-006 · TOLS
 
-Every curve, box, word and wire group: [1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1 (traced).json](../MECHANICAL/1976%20-%20451-03-006%20-%20DESIGNATION%20STRIP%20M451%20-%20DRN%20AF%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1 (traced).json](../MECHANICAL/1976%20-%20451-03-006%20-%20DESIGNATION%20STRIP%20M451%20-%20DRN%20AF%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1 (traced).dxf`).
 
 ## Full text
 

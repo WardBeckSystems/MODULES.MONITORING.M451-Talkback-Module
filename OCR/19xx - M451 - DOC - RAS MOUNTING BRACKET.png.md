@@ -14,6 +14,19 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Size:** 16,512,155 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale 2uL
+- **Ink extent:** 0–431 mm across, 4–298 mm up
+- **Outlines:** line 406 rings, 5,787 straight (11,629 mm) / 837 curved (1,076 mm); text 280 rings, 2,036 straight (2,420 mm) / 560 curved (920 mm); tb 35 rings, 269 straight (428 mm) / 42 curved (61.1 mm)
+- **Centre lines:** 8,157 paths (69 closed); straight 8,948 mm, curved 128 mm; horizontal 4,462 mm, vertical 1,938 mm, diagonal 2,549 mm
+- **Circles and arcs:** 3 circles, 1 arcs; largest r 9.5 @ (190.5, 194.1), r 9.2 @ (140.5, 193.1), r 1.3 @ (115.3, 109.1)
+- **Closed boxes:** 35 (25 in the title block); named: WARD-BECK WBS sySTEMs LTD; M45/ TRANSFORMER BRACKET MountinG; ~-03-007 451; ISS_; 85 TOLS _
+- **Words (OCR):** 43 in 35 lines: 2.50 · 96 · 38 · 328 DIA · PLACE $ · 1.920 · '290 · 20 · 2 - 56 TAD · 2 PLACES · IISS MOD CKD_ · USED ON
+- **Title block:** (140, 13)–(412, 64) mm: IISS MOD CKD_ · USED ON · MATL. · WBS · WARD-BECK sySTEMs LTD · 18 GA CRS · (.043 Thk: ) DRN · SEB · M45/ · DATE ALs 7Z · TRANSFORMER · FINISH · CKD · RA · MountinG · BRACKET · CAD. · PLATE · ScALE 2u
+
+Every curve, box, word and wire group: [19xx - M451 - DOC - RAS MOUNTING BRACKET (traced).json](../MECHANICAL/19xx%20-%20M451%20-%20DOC%20-%20RAS%20MOUNTING%20BRACKET%20%28traced%29.json) (the CAD file: `19xx - M451 - DOC - RAS MOUNTING BRACKET (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

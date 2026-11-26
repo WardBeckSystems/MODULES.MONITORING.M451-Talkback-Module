@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 57 in 48 lines: 2.500 · 0.770 · 730 · NOTES: · Tolerances: · XX · /-.015 · 0.410 · 0.700 · XXX=+ · /-.005 · Material:
 - **Title block:** (245, 26)–(415, 95) mm: SSUE DATE · REVISION · APP · WARD-BECK SYSTEMS · WBS · DRN: · BD 11/87 · M451 · ENG: MRW · BE YER · TRANSFORMER · CKD · MOUNTING BRACKET · APP · SCALE · DISC NO: 4OOSER-1 · 451-03-011 · ISSUE · 1:1 CO
 
-Every curve, box, word and wire group: [19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER (traced).json](../MECHANICAL/19xx%20-%20M451%20-%20DOC%20-%20451-03-011%20-%20BEYER%20TRANSFORMER%20(traced).json) (the CAD file: `19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER (traced).json](../MECHANICAL/19xx%20-%20M451%20-%20DOC%20-%20451-03-011%20-%20BEYER%20TRANSFORMER%20%28traced%29.json) (the CAD file: `19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER (traced).dxf`).
 
 ## Full text
 

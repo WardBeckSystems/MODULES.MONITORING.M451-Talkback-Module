@@ -24,6 +24,20 @@ Schematic of an input module with Ward-Beck title block at bottom right, text to
 - **Size:** 1,795,413 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic B ?-02-006, size B (assumed) 432 × 314 mm, 2000 × 1453 px traced (0.216 mm/px)
+- **Ink extent:** 6–419 mm across, 8–301 mm up
+- **Outlines:** line 2,901 rings, 29,532 straight (24,957 mm) / 5,807 curved (6,476 mm); text 445 rings, 3,836 straight (2,982 mm) / 1,134 curved (1,272 mm)
+- **Centre lines:** 24,830 paths (181 closed); straight 15,747 mm, curved 248 mm; horizontal 5,626 mm, vertical 3,740 mm, diagonal 6,381 mm
+- **Circles and arcs:** 2 circles, 66 arcs; largest r 2.7 @ (211.4, 243.4), r 2.5 @ (235.2, 220.1)
+- **Closed boxes:** 16
+- **Dots (junctions):** 1
+- **Words (OCR):** 126 in 117 lines: 21V- · R20 · Sw! · R24 imput Selector · 12e3 · Sw3 · BE3 307 · LEFT · R22 · IES · 251 · SW?
+- **Wiring (first pass):** 234 connected wire groups from 1,092 runs; labelled ends: 152 mm → 22/25, 22125, 204, CR4; 144 mm → BOOSTER, AMPLIFIER, 3et, R43; 136 mm → {5k, Cp3, 22/25, IN40o}; 111 mm → R37; 102 mm → Swi?
+
+Every curve, box, word and wire group: [1986 - B --02-006 - INPUT MODULE SCHEMATIC - DRN GEB (traced).json](../SCHEMATICS/1986%20-%20B%20--02-006%20-%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20%28traced%29.json) (the CAD file: `1986 - B --02-006 - INPUT MODULE SCHEMATIC - DRN GEB (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 6 words corrected)

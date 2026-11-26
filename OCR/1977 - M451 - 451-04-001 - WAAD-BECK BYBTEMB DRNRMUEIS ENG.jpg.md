@@ -21,7 +21,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Words (OCR):** 105 in 94 lines: 484 9 8 · 20 · R45 · Ri2 · 22r · 015 · 242709 · LR2 #K · 1C8 · ~Ri8 · AK · +c9 22025 CZ 23
 - **Title block:** (258, 0)–(432, 198) mm: WBS · CANADA · 4-137 · INtOO} · CRS · ACR7o} · 3713 · REVERSED GEB · ISSUDATE · REvISIOH · ApP: · WBS WARD-BECk ByBTeMB · DRN PAuety · M4si · ENG_ · TALKBACK Module · CKD · COMPONENT LAYOUT · APP · SC
 
-Every curve, box, word and wire group: [1977 - M451 - 451-04-001 - WAAD-BECK BYBTEMB DRNRMUEIS ENG (traced).json](../MECHANICAL/1977%20-%20M451%20-%20451-04-001%20-%20WAAD-BECK%20BYBTEMB%20DRNRMUEIS%20ENG%20(traced).json) (the CAD file: `1977 - M451 - 451-04-001 - WAAD-BECK BYBTEMB DRNRMUEIS ENG (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - 451-04-001 - WAAD-BECK BYBTEMB DRNRMUEIS ENG (traced).json](../MECHANICAL/1977%20-%20M451%20-%20451-04-001%20-%20WAAD-BECK%20BYBTEMB%20DRNRMUEIS%20ENG%20%28traced%29.json) (the CAD file: `1977 - M451 - 451-04-001 - WAAD-BECK BYBTEMB DRNRMUEIS ENG (traced).dxf`).
 
 ## Full text
 

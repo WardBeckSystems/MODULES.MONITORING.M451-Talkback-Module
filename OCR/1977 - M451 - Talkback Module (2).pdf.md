@@ -27,7 +27,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 451 · TALKBACK · MODULE · WBS
 - **Title block:** (171, 0)–(279, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 451 · TALKBACK · MODULE · WBS · WBS
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p1 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p1 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p1 (tr
 - **Words (OCR):** 12 in 8 lines: WARD-BECK SYSTEMS LTD_ · WBS B41 PAOGAESS AVENUE, BCAABOROUGH ONTANID M1h2XA · TELEX: 065-25399 · TELCPHONE: 416/438-6550 · M451 · TALKBACK MODULE · DESIGN AND MANUFACTUNE OF PNOFESSIONAL ALDIO · EQUIPMENT
 - **Title block:** (31, 389)–(247, 424) mm: WARD-BECK SYSTEMS LTD_ · WBS B41 PAOGAESS AVENUE, BCAABOROUGH ONTANID M1h2XA · TELEX: 065-25399 · TELCPHONE: 416/438-6550
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p2 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p2 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p2 (tr
 - **Words (OCR):** 46 in 35 lines: WAAD-BECK systems LTD · IABLE · 0F ConTEnIS · M451 · IALKBACK_MODULE · SECTION · PAGE · Warranty · Technica] Data · 1-1 · circuit · Description
 - **Title block:** (9, 51)–(297, 422) mm: WAAD-BECK systems LTD · IABLE · 0F ConTEnIS · M451 · IALKBACK_MODULE · SECTION · PAGE · Warranty · Technica] Data · 1-1 · circuit · Description · 2-1 · to 2-2 · Parts List · to 3-5 · 3 - I · Drawings 
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p3 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p3 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p3 (tr
 - **Words (OCR):** 236 in 109 lines: WAAD-Beck SYBTEmB LTD_ · WARRANI X · Ward-Beck Systems Ltd · products are · warranted · against · defective · materia ] s and · workmanship for · period 0 f one · year from · da te 0 f shipment
 - **Title block:** (10, 80)–(254, 422) mm: WAAD-Beck SYBTEmB LTD_ · WARRANI X · Ward-Beck Systems Ltd · products are · warranted · against · defective · materia ] s and · workmanship for · period 0 f one · year from · da te 0 f shipment · Ward
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p4 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p4 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p4 (tr
 - **Outlines:** line 38 rings, 908 straight (3,710 mm) / 98 curved (155 mm); text 1,001 rings, 7,500 straight (8,494 mm) / 1,995 curved (3,108 mm)
 - **Words (OCR):** 123 in 69 lines: WAAD-BECK SYSTEmS LTD · IECHNICAL DATA · M45] · IALKBACK_AMPLIFIER · Transducer Gain: · 88 dB +1 dB _ · Frequency Response: · dB from · 100 Hz 10 · 10 · kHz . · No ise:
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p5 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p5 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p5 (tr
 - **Words (OCR):** 297 in 140 lines: WARD-BECK · SYSTEms LTD_ · CIRCUIT DESCRIPTION · M451 TALKBACK · MODULE · The M451 TALKBACK · Modu le · designed accept inputs from two · t0 · The · signa 1 i5 · amp]ified t0 an
 - **Title block:** (6, 400)–(114, 425) mm: WARD-BECK · SYSTEms LTD_
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p6 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p6 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p6 (tr
 - **Outlines:** line 60 rings, 1,113 straight (3,829 mm) / 136 curved (230 mm); text 1,222 rings, 9,129 straight (10,148 mm) / 2,686 curved (4,196 mm)
 - **Words (OCR):** 171 in 82 lines: WARD-BECK SYSTEMS LTD · CIRCUIT DESCRIPIION · M451 · TaLKBACK MODULE · 25 Hz · Oscillator · 25 Hz relaxation oscillator i5 made up · 0 f 23 · C22 , R53 , R54 · and · R55 · portion the oscillator signa] injected into
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p7 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p7 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -95,7 +95,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p7 (tr
 - **Outlines:** line 149 rings, 1,374 straight (3,960 mm) / 235 curved (362 mm); text 1,111 rings, 8,896 straight (10,684 mm) / 2,443 curved (3,829 mm)
 - **Words (OCR):** 148 in 129 lines: WAAD-BECK BYBTeMS LTD · PARIS LIST · M451 TALKBAcK · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · C1 · Capacitor 100 uF/25 · Philips
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p8 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p8 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -105,7 +105,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p8 (tr
 - **Words (OCR):** 76 in 71 lines: WARD-BECK SYSTEMS LTD · PARTS LIST · M45] JALKBACK · MODULE · PART · DESCRIPIIOn · MFG · MFG PART · NUMBER · CR6 · Diode · Motoro]a
 - **Title block:** (7, 403)–(116, 427) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p9 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p9 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -115,7 +115,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p9 (tr
 - **Words (OCR):** 105 in 93 lines: WAAD-BECK Systems LTD, · PARIS LISI · M451 · IALKBACK · MODUL E · PARI DESCRIPTION · MFG · MFG PART NUMBER · R2I · Resistor · 100 · Philips
 - **Title block:** (7, 112)–(242, 425) mm: WAAD-BECK Systems LTD, · PARIS LISI · M451 · IALKBACK · MODUL E · PARI DESCRIPTION · MFG · R2I · Resistor · 100 · Philips · R22 · 620 · R23 · 1K5 · R24 · 56 · R25 · 10k · R26 · IM · R27 · 22k · R2 8 ·
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p10 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p10 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -125,7 +125,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p10 (t
 - **Words (OCR):** 101 in 84 lines: WARD-BECK SYBTEMS LTD · PARTS · LIST · M451 TALKBACK · MODULE · PART DESCRIPTION · MFG · MFG PART NUMBER · RS6 · Resistor · 58 · 15k
 - **Title block:** (10, 39)–(249, 425) mm: WARD-BECK SYBTEMS LTD · PARTS · LIST · M451 TALKBACK · MODULE · PART DESCRIPTION · MFG · RS6 · Resistor · 58 · 15k · Philips · R57 · 15k · R58 · 15k · R5 9 · 15k · R60 · Resistor YW · 33 · R61 · 33 · 
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p11 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p11 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -135,7 +135,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p11 (t
 - **Words (OCR):** 54 in 38 lines: WAAD-BECK · BYBTEmB LTD_ · PARTS List · Mh5i TALKBACK · MODULE · CONTROL · KNOBS, CAPS · AND_BUTTONS · USED ON DESCRiPTION · MFG · MFG PART NUMBER · R45
 - **Title block:** (7, 34)–(72, 424) mm: WAAD-BECK · R45 · SwI · To · SWL · Sw5
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p12 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p12 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p12 (t
 - **Words (OCR):** 40 in 27 lines: 4451 · LEvEL · control R4S: Control $ (ne sign2 | · Ieve 0f 211 · outputs. · SELEcTOR shitches · ing the · output $ign2 · These shitches · Four different · Jot · Jective rout
 - **Title block:** (211, 26)–(262, 58) mm: DATE · WBS
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p13 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p13 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -162,7 +162,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p13 (t
 - **Title block:** (274, 0)–(432, 81) mm: 10/77 · REVISED DESIGNATIONS · REDRAWN · Lr · 9/77 · ISSUE (DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRNDMHONEY · M451 · ENG_ RKB · Rul · TALKBACK MODULE · CKD · FUNCTIONAL DIAGRAM · SCALE · IS
 - **Wiring (first pass):** 109 connected wire groups from 228 runs; labelled ends: 176 mm → INSERT, +8 dBm; 137 mm → COMP; 98 mm → 10/77, Lr; 73 mm → 25 Hz, OSC; 52 mm → BST
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p14 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p14 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -175,7 +175,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p14 (t
 - **Words (OCR):** 137 in 123 lines: Crz · Rc0 Cz3 · Rso · 24 41/25 · 22k · <R4 · CR3 · 4 - 7 · CONTROL · 17/10 · Ls3/io Ri? · R39
 - **Title block:** (290, 0)–(387, 29) mm: HOD  CKD · WBS · 2i84 · DATE OCT · ScALE · TOLS ,
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p15 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p15 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -187,7 +187,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p15 (t
 - **Words (OCR):** 95 in 83 lines: 484 8 8 · R45 · RI2 · I0-015 · ~R2 4* · c8 · ~Ri8-k +c9 #L · CZ 242, · Pic87e · R26 IM · Ri · R73620
 - **Title block:** (325, 0)–(432, 51) mm: 3240 · ISSU DATE · REYEIOH · APR · WBS WARD-BECK ByBTeMB · M4si · TALKBACK Module · CKD; · 2L · COMPONENT LAYOUT · APP · ScAL · 451-04-001 · IssuE
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p16 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p16 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -199,7 +199,7 @@ Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p16 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 65 in 42 lines: OPERATOR MIC · OPERATOR Mic · GND · GND · PRODUCER MIC · PRODUCER MIC · NC · NC · CTL El 5 · MUTE · MUTE CTL · NC
 
-Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p17 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1977 - M451 - Talkback Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - Talkback Module (2) p17 (traced).json](../MANUALS/1977%20-%20M451%20-%20Talkback%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1977 - M451 - Talkback Module (2) p17 (traced).dxf`).
 
 ## Full text
 

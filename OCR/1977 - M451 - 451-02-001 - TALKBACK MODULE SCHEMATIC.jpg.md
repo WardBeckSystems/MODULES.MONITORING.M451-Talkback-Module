@@ -23,7 +23,7 @@ Wiki page: [M451](../../../../PAGES/M451.md)
 - **Words (OCR):** 147 in 136 lines: PN3569 · CR2 · Cz3 · Rso · 33 24 · 41/25 · {R4k · 22 k · RI · CR3 · C 27 · CONTROL
 - **Wiring (first pass):** 158 connected wire groups from 959 runs; labelled ends: 343 mm → LTO, USED 04, 2e4, WBS; 314 mm → Sw4, snz, Sw3; 209 mm → R73; 175 mm → R3I, 262 K, 33k, R24; 153 mm → <R9, RIs, 33k, 618
 
-Every curve, box, word and wire group: [1977 - M451 - 451-02-001 - TALKBACK MODULE SCHEMATIC (traced).json](../SCHEMATICS/1977%20-%20M451%20-%20451-02-001%20-%20TALKBACK%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1977 - M451 - 451-02-001 - TALKBACK MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M451 - 451-02-001 - TALKBACK MODULE SCHEMATIC (traced).json](../SCHEMATICS/1977%20-%20M451%20-%20451-02-001%20-%20TALKBACK%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1977 - M451 - 451-02-001 - TALKBACK MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

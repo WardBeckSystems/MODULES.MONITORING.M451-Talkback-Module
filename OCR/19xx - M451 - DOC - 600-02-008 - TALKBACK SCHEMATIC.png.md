@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (264, 36)–(432, 105) mm: ISSUE] DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: JRG 02/87 · ENG_ · TALKBACK · CKD_ · SCHEMATIC · APP _ · SCALE DISC 130 · NO: · 600-02-008 · ISSUE · CODE: 600508
 - **Wiring (first pass):** 67 connected wire groups from 271 runs; labelled ends: 834 mm → TB2, 124.,125, TB1, 151,152; 87 mm → ISSUE, 600-02-008; 82 mm → 25v, +25v; 75 mm → (111), 112,113, 455; 65 mm → 154.155
 
-Every curve, box, word and wire group: [19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M451%20-%20DOC%20-%20600-02-008%20-%20TALKBACK%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M451%20-%20DOC%20-%20600-02-008%20-%20TALKBACK%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC (traced).dxf`).
 
 ## Full text
 
