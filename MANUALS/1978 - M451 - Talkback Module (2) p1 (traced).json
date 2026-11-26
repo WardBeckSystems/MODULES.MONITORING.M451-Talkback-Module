@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/2d2dd3b8d603bbd3-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1477, 2000],
+  "mm": [318.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [166.5, 3.0, 318.9, 431.8],
+ "outlines": {
+  "line": {"rings": 75, "straight": {"n": 2962, "mm": 9767.3}, "curved": {"n": 245, "mm": 412.5}},
+  "text": {"rings": 1, "straight": {"n": 2, "mm": 1.5}, "curved": {"n": 1, "mm": 0.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [220.0, 334.9, 237.1, 337.9], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [220.0, 328.6, 237.3, 331.6], "w": 17.3, "h": 3.0, "from": "ring", "words": ["\\N8S"]},
+  {"mm": [220.0, 295.8, 237.1, 298.6], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [220.0, 289.3, 237.3, 292.3], "w": 17.3, "h": 3.0, "from": "ring", "words": ["\\N8S"]},
+  {"mm": [220.0, 256.5, 237.2, 259.3], "w": 17.2, "h": 2.8, "from": "ring"},
+  {"mm": [220.2, 139.3, 237.4, 142.1], "w": 17.2, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [179.8, 359.7, 269.9, 378.6], "text": "\\N8S"},
+   {"mm": [179.8, 320.4, 269.9, 339.3], "text": "\\N8S"},
+   {"mm": [179.4, 281.3, 269.7, 300.3], "text": "\\N8S"},
+   {"mm": [179.4, 241.8, 269.4, 260.8], "text": "\\N8S"},
+   {"mm": [179.4, 203.2, 269.4, 222.1], "text": "\\N8S"},
+   {"mm": [179.0, 163.7, 269.0, 182.6], "text": "\\N8S"},
+   {"mm": [179.0, 124.6, 269.0, 143.5], "text": "\\N8S"},
+   {"mm": [224.5, 99.1, 236.2, 106.5], "text": ".51"},
+   {"mm": [197.8, 92.8, 256.9, 99.3], "text": "TALKBACK MODUlE"},
+   {"mm": [178.5, 46.4, 292.1, 65.4], "text": "\\N8S ps"},
+   {"mm": [261.5, 43.6, 282.2, 54.4], "text": "BS"},
+   {"mm": [240.1, 22.2, 257.8, 29.0], "text": "tp"},
+   {"mm": [178.5, 7.3, 268.1, 26.3], "text": "\\N8S"},
+   {"mm": [233.4, 15.3, 253.3, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 319 × 432 mm, 1477 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 166–319 mm across, 3–432 mm up",
+  "- **Outlines:** line 75 rings, 2,962 straight (9,767 mm) / 245 curved (412 mm); text 1 rings, 2 straight (1.5 mm) / 1 curved (0.9 mm)",
+  "- **Closed boxes:** 6; named: \\N8S; \\N8S",
+  "- **Words (OCR):** 16 in 14 lines: \\N8S · \\N8S · \\N8S · \\N8S · \\N8S · \\N8S · \\N8S · .51 · TALKBACK MODUlE · \\N8S ps · BS · tp"
+ ]
+}

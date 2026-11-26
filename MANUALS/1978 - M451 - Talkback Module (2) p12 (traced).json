@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/2d2dd3b8d603bbd3-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1440, 2000],
+  "mm": [310.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [13.2, 8.9, 294.7, 414.5],
+ "outlines": {
+  "line": {"rings": 38, "straight": {"n": 1090, "mm": 3674.9}, "curved": {"n": 149, "mm": 246.7}},
+  "text": {"rings": 372, "straight": {"n": 2919, "mm": 3352.8}, "curved": {"n": 868, "mm": 1359.3}},
+  "tb": {"rings": 23, "straight": {"n": 157, "mm": 196.2}, "curved": {"n": 44, "mm": 68.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 72,
+  "lines": [
+   {"mm": [13.4, 408.7, 108.2, 414.0], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [112.3, 408.7, 128.2, 414.2], "text": "LTD."},
+   {"mm": [136.2, 366.0, 155.2, 371.0], "text": "PARTS"},
+   {"mm": [164.3, 366.0, 169.3, 371.0], "text": "IS"},
+   {"mm": [115.3, 352.6, 190.0, 357.6], "text": "M45 TA LKBACK MODUL"},
+   {"mm": [94.3, 339.2, 148.1, 344.2], "text": "CONTROL KNOBS,"},
+   {"mm": [157.8, 339.2, 216.5, 344.2], "text": "APS AN BU TTO NS"},
+   {"mm": [36.7, 312.2, 47.9, 317.2], "text": "SED"},
+   {"mm": [73.0, 312.2, 115.3, 317.2], "text": "DESCR PT 1ON"},
+   {"mm": [177.9, 312.2, 190.4, 317.2], "text": "MFG"},
+   {"mm": [217.8, 312.0, 279.2, 317.0], "text": "MFG PART NUM BER"},
+   {"mm": [77.5, 298.8, 87.7, 303.6], "text": "nob"},
+   {"mm": [105.8, 298.8, 129.1, 303.8], "text": "lBlack)"},
+   {"mm": [182.2, 297.9, 190.9, 303.0], "text": "lm\""},
+   {"mm": [217.8, 298.8, 240.3, 303.8], "text": "021-352"},
+   {"mm": [73.2, 291.5, 84.8, 297.5], "text": "Coo"},
+   {"mm": [105.8, 292.1, 126.3, 297.2], "text": "lRI \"ck"},
+   {"mm": [217.8, 292.1, 240.9, 297.2], "text": "040 302"},
+   {"mm": [32.4, 279.2, 42.7, 284.2], "text": "SWl"},
+   {"mm": [73.4, 272.2, 93.1, 277.3], "text": "Button"},
+   {"mm": [105.8, 272.7, 128.5, 277.7], "text": "(White)"},
+   {"mm": [218.3, 272.2, 241.8, 277.3], "text": "FGK- VlH"},
+   {"mm": [32.4, 266.0, 43.6, 271.0], "text": "SW4"},
+   {"mm": [32.8, 252.2, 44.5, 258.2], "text": "5W5"},
+   {"mm": [113.1, 252.6, 119.2, 257.6], "text": "ed"},
+   {"mm": [218.3, 252.6, 244.8, 257.6], "text": "FGK_R ED"},
+   {"mm": [265.3, 53.3, 284.8, 61.7], "text": "ps"},
+   {"mm": [254.8, 42.5, 275.1, 53.1], "text": "BS"},
+   {"mm": [33.2, 42.5, 75.3, 47.6], "text": "WBS recom me"},
+   {"mm": [91.8, 42.5, 161.9, 47.6], "text": "the use of rep aceme"},
+   {"mm": [173.2, 42.5, 210.1, 47.6], "text": "par ts mil de"},
+   {"mm": [226.9, 42.5, 236.0, 47.6], "text": "the"},
+   {"mm": [248.1, 42.1, 256.5, 47.9], "text": "eci"},
+   {"mm": [38.0, 36.1, 117.7, 41.3], "text": "~nuf ct ur.,rs fo con in"},
+   {"mm": [133.6, 36.3, 239.2, 41.3], "text": "optimllm qu pment pertoe-mance"},
+   {"mm": [234.0, 21.8, 251.3, 28.5], "text": "tp"},
+   {"mm": [227.3, 15.1, 246.8, 21.8], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [7.2, 33.9, 114.3, 422.6],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS", "SED", "DESCR PT 1ON", "nob", "Coo", "SWl", "Button", "SW4", "5W5", "WBS recom me", "~nuf ct ur.,rs fo con in"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1440 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 13–295 mm across, 9–414 mm up",
+  "- **Outlines:** line 38 rings, 1,090 straight (3,675 mm) / 149 curved (247 mm); text 372 rings, 2,919 straight (3,353 mm) / 868 curved (1,359 mm); tb 23 rings, 157 straight (196 mm) / 44 curved (68.2 mm)",
+  "- **Words (OCR):** 72 in 37 lines: WARD-BECK SYSTEMS · LTD. · PARTS · IS · M45 TA LKBACK MODUL · CONTROL KNOBS, · APS AN BU TTO NS · SED · DESCR PT 1ON · MFG · MFG PART NUM BER · nob",
+  "- **Title block:** (7, 34)–(114, 423) mm: WARD-BECK SYSTEMS · SED · DESCR PT 1ON · nob · Coo · SWl · Button · SW4 · 5W5 · WBS recom me · ~nuf ct ur.,rs fo con in"
+ ]
+}

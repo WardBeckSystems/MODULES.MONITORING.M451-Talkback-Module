@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/2d2dd3b8d603bbd3-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1477, 2000],
+  "mm": [318.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.2, 317.5, 431.8],
+ "outlines": {
+  "line": {"rings": 102, "straight": {"n": 2148, "mm": 5020.3}, "curved": {"n": 317, "mm": 515.8}},
+  "text": {"rings": 85, "straight": {"n": 712, "mm": 918.9}, "curved": {"n": 194, "mm": 293.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [104.7, 406.5, 212.2, 413.7], "text": "WARD- BE CK YST"},
+   {"mm": [244.4, 406.5, 264.3, 413.7], "text": "LTD"},
+   {"mm": [135.2, 400.1, 169.7, 404.1], "text": "EaB \"\"VE NUe."},
+   {"mm": [171.9, 399.6, 214.4, 405.6], "text": "ac\" po \"'lOl...Q-1."},
+   {"mm": [216.5, 400.1, 264.9, 404.1], "text": "CNTAFW::l M1H IIX..,"},
+   {"mm": [125.0, 394.2, 145.7, 398.3], "text": "oee·"},
+   {"mm": [192.2, 394.2, 224.5, 398.3], "text": "Tn.J:PHCJNe.:"},
+   {"mm": [236.4, 394.2, 248.1, 398.3], "text": "l\"':3B"},
+   {"mm": [130.2, 244.4, 177.9, 255.0], "text": "M451"},
+   {"mm": [119.8, 233.0, 184.2, 239.0], "text": "TALKBACK MODUL"},
+   {"mm": [272.2, 54.4, 292.1, 63.0], "text": "ps"},
+   {"mm": [261.5, 43.6, 282.2, 54.4], "text": "BS"},
+   {"mm": [240.1, 22.2, 257.8, 29.0], "text": "tp"},
+   {"mm": [233.4, 15.3, 253.3, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 319 × 432 mm, 1477 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 3–432 mm up",
+  "- **Outlines:** line 102 rings, 2,148 straight (5,020 mm) / 317 curved (516 mm); text 85 rings, 712 straight (919 mm) / 194 curved (293 mm)",
+  "- **Words (OCR):** 24 in 14 lines: WARD- BE CK YST · LTD · EaB \"\"VE NUe. · ac\" po \"'lOl...Q-1. · CNTAFW::l M1H IIX.., · oee· · Tn.J:PHCJNe.: · l\"':3B · M451 · TALKBACK MODUL · ps · BS"
+ ]
+}

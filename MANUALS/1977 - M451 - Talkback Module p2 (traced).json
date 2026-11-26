@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/MONITORING/M451/MANUALS/1977 - M451 - Talkback Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/6c99c8f72f146f05-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1477, 2000],
+  "mm": [318.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.2, 317.5, 431.8],
+ "outlines": {
+  "line": {"rings": 10, "straight": {"n": 758, "mm": 3069.3}, "curved": {"n": 58, "mm": 91.7}},
+  "text": {"rings": 173, "straight": {"n": 1931, "mm": 2510.5}, "curved": {"n": 438, "mm": 688.2}},
+  "tb": {"rings": 3, "straight": {"n": 144, "mm": 353.4}, "curved": {"n": 12, "mm": 24.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [104.9, 406.1, 267.3, 415.7], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [37.4, 397.7, 266.6, 411.8], "text": "WBS B41 PAOGAESS AVENUE, BCAABOROUGH ONTANID M1h2XA"},
+   {"mm": [104.5, 394.9, 156.7, 400.2], "text": "TELEX: 065-25399"},
+   {"mm": [191.7, 394.9, 265.6, 400.2], "text": "TELCPHONE: 416/438-6550"},
+   {"mm": [130.0, 244.8, 179.6, 258.3], "text": "M451"},
+   {"mm": [118.7, 232.7, 190.4, 240.9], "text": "TALKBACK MODULE"},
+   {"mm": [63.0, 10.8, 204.2, 17.3], "text": "DESIGN AND MANUFACTUNE OF PNOFESSIONAL ALDIO"},
+   {"mm": [206.2, 11.0, 236.2, 16.5], "text": "EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [30.9, 389.1, 246.8, 424.5],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "WBS B41 PAOGAESS AVENUE, BCAABOROUGH ONTANID M1h2XA", "TELEX: 065-25399", "TELCPHONE: 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 319 × 432 mm, 1477 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 3–432 mm up",
+  "- **Outlines:** line 10 rings, 758 straight (3,069 mm) / 58 curved (91.7 mm); text 173 rings, 1,931 straight (2,510 mm) / 438 curved (688 mm); tb 3 rings, 144 straight (353 mm) / 12 curved (24.7 mm)",
+  "- **Words (OCR):** 12 in 8 lines: WARD-BECK SYSTEMS LTD_ · WBS B41 PAOGAESS AVENUE, BCAABOROUGH ONTANID M1h2XA · TELEX: 065-25399 · TELCPHONE: 416/438-6550 · M451 · TALKBACK MODULE · DESIGN AND MANUFACTUNE OF PNOFESSIONAL ALDIO · EQUIPMENT",
+  "- **Title block:** (31, 389)–(247, 424) mm: WARD-BECK SYSTEMS LTD_ · WBS B41 PAOGAESS AVENUE, BCAABOROUGH ONTANID M1h2XA · TELEX: 065-25399 · TELCPHONE: 416/438-6550"
+ ]
+}

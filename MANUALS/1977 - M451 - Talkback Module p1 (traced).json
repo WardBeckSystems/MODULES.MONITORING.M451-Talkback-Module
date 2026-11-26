@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/MONITORING/M451/MANUALS/1977 - M451 - Talkback Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/6c99c8f72f146f05-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1477, 2000],
+  "mm": [318.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [166.5, 3.0, 318.9, 431.8],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 1634, "mm": 5563.4}, "curved": {"n": 85, "mm": 143.8}},
+  "text": {"rings": 49, "straight": {"n": 1219, "mm": 3979.1}, "curved": {"n": 134, "mm": 224.9}},
+  "tb": {"rings": 3, "straight": {"n": 83, "mm": 233.1}, "curved": {"n": 22, "mm": 35.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [179.8, 399.2, 271.6, 422.5], "text": "WBS"},
+   {"mm": [179.4, 360.3, 271.6, 383.6], "text": "WBS"},
+   {"mm": [178.1, 319.7, 271.6, 344.9], "text": "WBS"},
+   {"mm": [178.8, 281.5, 272.0, 305.3], "text": "WBS"},
+   {"mm": [178.8, 241.6, 272.0, 265.8], "text": "WBS"},
+   {"mm": [178.5, 202.7, 272.0, 227.2], "text": "WBS"},
+   {"mm": [179.4, 163.2, 271.6, 187.4], "text": "WBS"},
+   {"mm": [179.2, 125.4, 272.2, 148.9], "text": "WBS"},
+   {"mm": [216.1, 101.7, 237.5, 110.6], "text": "M 451"},
+   {"mm": [196.7, 94.1, 229.5, 101.1], "text": "TALKBACK"},
+   {"mm": [232.1, 93.7, 258.0, 101.4], "text": "MODULE"},
+   {"mm": [178.3, 45.6, 272.7, 69.8], "text": "WBS"},
+   {"mm": [177.0, 7.8, 272.2, 31.5], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [170.6, 0.0, 279.1, 431.0],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M 451", "TALKBACK", "MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 319 × 432 mm, 1477 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 166–319 mm across, 3–432 mm up",
+  "- **Outlines:** line 24 rings, 1,634 straight (5,563 mm) / 85 curved (144 mm); text 49 rings, 1,219 straight (3,979 mm) / 134 curved (225 mm); tb 3 rings, 83 straight (233 mm) / 22 curved (35.2 mm)",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 451 · TALKBACK · MODULE · WBS",
+  "- **Title block:** (171, 0)–(279, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 451 · TALKBACK · MODULE · WBS · WBS"
+ ]
+}
