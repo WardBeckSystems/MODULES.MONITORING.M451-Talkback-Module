@@ -180,17 +180,61 @@ Not on Google Drive yet: `M451 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 7 of 9 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-18: kept OUT 4 (out); RTO-144 sheet says GND (ground)
+- disagree P1-Y: kept N/C (nc); RTO-144 sheet says VCC-LOGIC (power)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 18 | COMMON | ground |  | high |
-| 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | +25 V | power |  | high |
-| Y | +24 V | power |  | high |
+| 1 | OPERATOR MIC | in | OPERATOR MIC | medium |
+| 2 | GND | ground |  | medium |
+| 3 | PRODUCER MIC | in | PRODUCER MIC | medium |
+| 4 | N/C | nc |  | medium |
+| 5 | MUTE CTL | control_out | MUTE CTL | medium |
+| 6 | N/C | nc |  | medium |
+| 7 | N/C | nc |  | medium |
+| 8 | N/C | nc |  | medium |
+| 9 | OUTPUT | out | OUTPUT | medium |
+| 10 | SWITCH IN | in | SWITCH IN | medium |
+| 11 | CTL COM | ground |  | medium |
+| 12 | AUX | other | AUX | medium |
+| 13 | CTL 2 | control_in | CTL 2 | medium |
+| 14 | OUT 1 | out | OUT 1 | medium |
+| 15 | OUT 2 | out | OUT 2 | medium |
+| 16 | CTL 4 | control_in | CTL 4 | medium |
+| 17 | OUT 3 | out | OUT 3 | medium |
+| 18 | OUT 4 | out | OUT 4 | medium |
+| 19 | -25 V | power |  | medium |
+| 20 | 25V COM | ground |  | medium |
+| 21 | +25 V | power |  | medium |
+| 22 | CHASSIS | ground |  | medium |
+| A | OPERATOR MIC | in | OPERATOR MIC | medium |
+| B | GND | ground |  | medium |
+| C | PRODUCER MIC | in | PRODUCER MIC | medium |
+| D | N/C | nc |  | medium |
+| E | MUTE CTL | control_out | MUTE CTL | medium |
+| F | N/C | nc |  | medium |
+| H | N/C | nc |  | medium |
+| J | N/C | nc |  | medium |
+| K | OUTPUT | out | OUTPUT | medium |
+| L | SWITCH IN | in | SWITCH IN | medium |
+| M | OSC CTL | control_in | OSC CTL | medium |
+| N | AUX | other | AUX | medium |
+| P | CTL 1 | control_in | CTL 1 | medium |
+| R | OUT 1 | out | OUT 1 | medium |
+| S | OUT 2 | out | OUT 2 | medium |
+| T | CTL 3 | control_in | CTL 3 | medium |
+| U | OUT 3 | out | OUT 3 | medium |
+| V | OUT 4 | out | OUT 4 | medium |
+| W | N/C | nc |  | medium |
+| X | N/C | nc |  | medium |
+| Y | N/C | nc |  | medium |
+| Z | N/C | nc |  | medium |
 
-**Straps:** CH ON LAMP: JMP.Z.W · CH ON GND : JMP.X.18 · 24V Jumper: JMP.Y.21 · CH ON GND : JMP.3 · Insert +: JMP.22.21 · Insert -: JMP.Z.Y · Fader +: JMP.20.19 · Fader - : JMP.X.W
+**Straps:** JMP.Z.W: P2-Z P2-W · JMP.X.18: P2-X P2-18 · JMP.Y.21: P2-Y P2-21 · JMP.3: P2-20 P2-18 · JMP.22.21: P2-22 P2-21 · JMP.Z.Y: P2-Z P2-Y · JMP.20.19: P2-20 P2-19 · JMP.X.W: P2-X P2-W
 
 ## Manuals and documents
 

@@ -1,0 +1,593 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1977 - M451 - P17 - Pin Outs.jpg",
+  "module": "M451",
+  "applies_to": [
+    "M451"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "451-04-002",
+    "title": "M451 TALKBACK MODULE CONNECTOR REAR VIEW",
+    "date": "1977-09",
+    "issue": "2",
+    "drawn": "G.R."
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": null,
+      "as_drawn": "OPERATOR MIC",
+      "signal": "OPERATOR MIC",
+      "kind": "in",
+      "port": "OPERATOR MIC",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "OPERATOR MIC",
+      "signal": "OPERATOR MIC",
+      "kind": "in",
+      "port": "OPERATOR MIC",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "PRODUCER MIC",
+      "signal": "PRODUCER MIC",
+      "kind": "in",
+      "port": "PRODUCER MIC",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "PRODUCER MIC",
+      "signal": "PRODUCER MIC",
+      "kind": "in",
+      "port": "PRODUCER MIC",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "MUTE CTL",
+      "signal": "MUTE CTL",
+      "kind": "control_out",
+      "port": "MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "MUTE CTL",
+      "signal": "MUTE CTL",
+      "kind": "control_out",
+      "port": "MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "SWITCH IN",
+      "signal": "SWITCH IN",
+      "kind": "in",
+      "port": "SWITCH IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "SWITCH IN",
+      "signal": "SWITCH IN",
+      "kind": "in",
+      "port": "SWITCH IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "OSC CTL",
+      "signal": "OSC CTL",
+      "kind": "control_in",
+      "port": "OSC CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CTL COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "AUX",
+      "signal": "AUX",
+      "kind": "other",
+      "port": "AUX",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "AUX",
+      "signal": "AUX",
+      "kind": "other",
+      "port": "AUX",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "CTL 1",
+      "signal": "CTL 1",
+      "kind": "control_in",
+      "port": "CTL 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "CTL 2",
+      "signal": "CTL 2",
+      "kind": "control_in",
+      "port": "CTL 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "OUT 1",
+      "signal": "OUT 1",
+      "kind": "out",
+      "port": "OUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "OUT 1",
+      "signal": "OUT 1",
+      "kind": "out",
+      "port": "OUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": null,
+      "as_drawn": "OUT 2",
+      "signal": "OUT 2",
+      "kind": "out",
+      "port": "OUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "OUT 2",
+      "signal": "OUT 2",
+      "kind": "out",
+      "port": "OUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": null,
+      "as_drawn": "CTL 3",
+      "signal": "CTL 3",
+      "kind": "control_in",
+      "port": "CTL 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "CTL 4",
+      "signal": "CTL 4",
+      "kind": "control_in",
+      "port": "CTL 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": null,
+      "as_drawn": "OUT 3",
+      "signal": "OUT 3",
+      "kind": "out",
+      "port": "OUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "OUT 3",
+      "signal": "OUT 3",
+      "kind": "out",
+      "port": "OUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": null,
+      "as_drawn": "OUT 4",
+      "signal": "OUT 4",
+      "kind": "out",
+      "port": "OUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "OUT 4",
+      "signal": "OUT 4",
+      "kind": "out",
+      "port": "OUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "25V COM",
+      "signal": "25V COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "OPERATOR MIC",
+      "dir": "in",
+      "pins": {
+        "a": "P1-A",
+        "b": "P1-1"
+      }
+    },
+    {
+      "name": "PRODUCER MIC",
+      "dir": "in",
+      "pins": {
+        "a": "P1-C",
+        "b": "P1-3"
+      }
+    },
+    {
+      "name": "MUTE CTL",
+      "dir": "control_out",
+      "pins": {
+        "a": "P1-E",
+        "b": "P1-5"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-K",
+        "b": "P1-9"
+      }
+    },
+    {
+      "name": "SWITCH IN",
+      "dir": "in",
+      "pins": {
+        "a": "P1-L",
+        "b": "P1-10"
+      }
+    },
+    {
+      "name": "OSC CTL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-M"
+      }
+    },
+    {
+      "name": "AUX",
+      "dir": "bidir",
+      "pins": {
+        "a": "P1-N",
+        "b": "P1-12"
+      }
+    },
+    {
+      "name": "CTL 1",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-P"
+      }
+    },
+    {
+      "name": "CTL 2",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-13"
+      }
+    },
+    {
+      "name": "OUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-R",
+        "b": "P1-14"
+      }
+    },
+    {
+      "name": "OUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-S",
+        "b": "P1-15"
+      }
+    },
+    {
+      "name": "CTL 3",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-T"
+      }
+    },
+    {
+      "name": "CTL 4",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-16"
+      }
+    },
+    {
+      "name": "OUT 3",
+      "dir": "out",
+      "pins": {
+        "a": "P1-U",
+        "b": "P1-17"
+      }
+    },
+    {
+      "name": "OUT 4",
+      "dir": "out",
+      "pins": {
+        "a": "P1-V",
+        "b": "P1-18"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Direction of AUX (N / 12) and of MUTE CTL (E / 5) is not stated; SWITCH IN could be a switched audio input or a control.",
+    "The drawing names no connector (P1 used; the file name says P17)."
+  ],
+  "confidence": "medium",
+  "notes": "Edge connector drawn as two columns, letters A-Z (no G, I, O, Q) beside numbers 1-22; each column carries its own label, so the letter and number contacts are recorded as separate contacts. Where both sides carry the same label the two contacts form one port (keyed a = letter side, b = number side, polarity not marked on the drawing). Operator and producer mic inputs, talkback OUTPUT, OUT 1-4 with CTL 1-4, OSC CTL, power. CTL n taken as control inputs selecting OUT n, MUTE CTL as a control output (mutes monitors during talkback) - both inferred, not written. Size A, DATE SEPT 77, ISS 2, checked (signature). Legend: NC not connected."
+}
