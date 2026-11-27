@@ -1,0 +1,250 @@
+{
+ "module": "M451",
+ "title": "M451",
+ "source": {
+  "file": "MANUALS/1977 - M451 - Talkback Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Transducer gain",
+   "key": "transducer_gain",
+   "text": "88 dB +1 dB",
+   "quantities": [
+    {
+     "value": 88,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": ":1 dB from 100 Hz to 10 kHz",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB"
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-122 dBm Ein _ (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": -122,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.5% Thd from 100 Hz to 10 kHz at compression threshold and +18 dBm output.",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "150 ohm.",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "750 ohm, baLanced",
+   "quantities": [
+    {
+     "value": 750,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-70 dBm nomina], 30 dBm maximum",
+   "quantities": [
+    {
+     "value": -70,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "150 ohm, ba anced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohm, balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+8 dBm nominal, +22 dBm maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 22,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Compression ratio",
+   "key": "compression_ratio",
+   "text": "5:1,"
+  },
+  {
+   "name": "Compression ratio",
+   "key": "compression_ratio",
+   "text": "30 dB",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Attack time",
+   "key": "attack_time",
+   "text": "millisecond."
+  },
+  {
+   "name": "Release time",
+   "key": "release_time",
+   "text": "second"
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output termina ] s designated by numbers are in phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc, 35 MA",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 35,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 60 degrees Celsius 1 6 \" wide X 7\" high X 6.5 \" deep (41 TT X 178 MM X 165 mm)",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 178,
+     "unit": "MM"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1977 - M451 - Talkback Module (2).pdf",
+   "page": 5
+  },
+  {
+   "file": "MANUALS/1977 - M451 - P4.jpg",
+   "page": 1
+  }
+ ]
+}

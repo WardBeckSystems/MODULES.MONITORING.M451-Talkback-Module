@@ -1,0 +1,73 @@
+{
+ "module": "M451",
+ "source": {
+  "file": "MANUALS/1978 - M451 - Talkback Module.pdf",
+  "pages": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "3 Parts List 3-1 t o 3-5",
+    "4 Drawings",
+    "1'1451 Front Panel A451 -D 4 -0D 4 1'14 51 Functional B45 1 -01 -00 1 1'1451 sc heee t tc 845 1-02-00 1 1'14 51 Co.po ne n t Layout 8 451 -04 -00 1 1'1 45 1 Connector Layout A451-04-00 2"
+   ]
+  },
+  {
+   "heading": "WARRANTY",
+   "paragraphs": [
+    "All Ward -Beck. S y s t~m s Ltd. products are wilr ranted against defective eater l al sand work. man ship fora per10d of one year from date o f shipment.",
+    "WardBeck Sy s tells will repair o r replace. a tits option. without char g~. all said products o r parts thereof which. upon factory inspection. prove to bede f e c t t ve during the warranty period provided that:",
+    "a) Original serial numbers are intact and have not been tampered with.",
+    "b) The purchaser shall return any equipment o r par l s thereof to Ward-Be ck Systems only after obtaining prior e e t no rt aa t t cn and shipping t ns t r uc ti o ns from the factory. Ward-Be Ck Systems reserves the right t o i fl spec tor repair on the purchaser's premises.",
+    "c) The purchaser assumes the o b l i ga t ion of 1111 expenses incurred in connection with shipping and returning such goods. once authorization has been obtained.",
+    "This warrllnty does not cover items normally cens tde red expendables uc has fuses a fl d h llps.",
+    "This warranty does not cover damages caused by misuse, a c ci de flt. neglect. unauthorized alteration. rep.ir by unauthorized personnel. o r dam age caused by act Of God. war o r civil insurrection.",
+    "I n no event shall War d-Be ck Systems be liable for consequential damages. Ward-Be ck Systems Shall have the right off ina lee t ere tnat ten as to the applicability of this warranty.",
+    "War d-Be c k Systems reserves the right. at anytime. to... ke changes in e qu tp een t, component spec t t t ce t tcns and design as maybe wolrrant~d by progress int e c hno l ogy.",
+    "The warranty set forth herein Is in lieu o fall other wa r",
+    "ranti es. express o rIm plied. including the warranties of",
+    "Mer ch afltolb11lty and Fi ene s s."
+   ]
+  },
+  {
+   "heading": "\"451 TAL KBACK AMPLIFIER",
+   "paragraphs": [
+    "Transducer Gain: B8 dB t 1 dB.",
+    "Frequency Response::1: 1 dB fro _ 100 Hz t o 10 kHz. Ho ise: -122 d8_ EIN. (20 Hz t o 20 kHz). Ha r_onic Distortion: Less than 0.51 THD from 100 Hz t o 10 kHz at to_p r es sio n threshold and qB dB. output.",
+    "se vr-ce I_ped ante: 150 ohm.",
+    "Input t spec e nce: 750 ohm, balanced. Input Level:",
+    "Outpll t I _pedance: 150 oh., balanced. Load I_pedante: 600 oh., ba 1 an ced. Output tevet:",
+    "Co_pr ess ion Ratio: 5: 1.",
+    "C o ~ press ion Range: 30 se.",
+    "Attack Time: 1 millisecond. Release Time: 1 second.",
+    "Phasing: Input and output terminals designated by numbers are i n phase.",
+    "Power Requirements::t 25 '0'01 t sec, 35 mA. Ambient Temperature: o t o 60 degrees Celsius. Oi mens1on$: 1.6 \" wIde X 7\" high X 6.5 \" deep. (41 mm X 178 mm X 165 mill).",
+    "1• 1",
+    "The M451 TA LKBAC K Module is designed to accept inputs from two separate microphone sources. The signal is amplified t o an output level of +8 dBm. Additionally, the unit incorporates a mute control for each input channel, a compressor and a 25 Hz slating oscillator. The output signal can be routed to fours eparat e destinations byway of a pus h-bu tton selector assembly. Preampl i fie rs The first pream plif i e r consists of Tl, 01 and 02, while T2, 04 and 05 maKeup these cond pre amp.",
+    "Muting Switches 03 and 06 are functioning as solids tate muting switches, permitting the choice of either pr eampl i fi er output for further processing. The switches are normally in the muted position and maybe switched ON by placing aground potential Onto pins E o r 5 respectively. This control maybe extended from the module t o are mote location such as a prod ucer' s station adjacent t o the console.",
+    "Compressor The outputs of the two preampli fi ers are fed t o amplifier Zl via summing resistors R1 6 and R32.07, thea t t e nua tio n element of the compressors ect ion, is placed i n parallel tot he input of Zl. The amplified output of Zl Is coupled through C21 tot he front panel LEVEL control R4 5 as well as tot he THRESHOLD control R44. The signal taken from the wiper of R44 is amplified by Z3 and subsequently rectified by CR1. After filtering, the de voltage, developed in this manner, i s used t o control 07. C17 in conjunction.with R33, R36 and R42 determine there lease character i s tics oft he compressor. R42 sets the bias or opera ting point of 07 and consequently the compression slo ~ characteristics.",
+    "Output Amplifier",
+    "The audio signal taken from the wiper of R45 is brought t o Z2,010 and 01 1, thus forming one half of the actively balanced",
+    "output amplifier. Z2, OB and 09 form the second half of the",
+    "output amplifier. The output is brought t o pins 9/ K.",
+    "M45l TALK BACK MODULE",
+    "25 Hz Osc il h tor A 25 Hz r e l a xat ion oscillator is made up of Z3. C2 2. R53, R54 and R55. A portion of the oscillator signal is injected into Z2 via R49.",
+    "The 25 Hz signal appears at the output of the amplifier at a level approximately 20 dB below the nominal output level of +8 dBm.",
+    "A normally closed contact of SW5 shorts out the timing capacitor C22 to inhibit the oscillator.",
+    "Output Switches The Direct audio output, at pins 9/K. i s normally jump ere d t o pins lOlL t o incorporate selective output routing. SWl to SW4 allow the signal to be routed t o four separate locations. Additionally, each switch i s equipped with a control contact to a common control bus.",
+    "SWl is normally employed for slating ina n audio console system. With a jumper wire between pins M and ~, the oscillator will only be activated when both SW land SW5 are depressed. Power Supply Decoupling R7l, R72, C25 and C26 serve to deco uple the M451 from the main power rails. CRl and CR2 prevent damage t o the module int he event of accidental polarity reversal.",
+    "WA~O -BECK SYSTEMS L.TC."
+   ]
+  }
+ ]
+}
