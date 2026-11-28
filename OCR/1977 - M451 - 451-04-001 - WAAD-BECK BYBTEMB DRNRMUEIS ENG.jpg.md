@@ -1,5 +1,5 @@
 # 1977 - M451 - 451-04-001 - WAAD-BECK BYBTEMB DRNRMUEIS ENG.jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

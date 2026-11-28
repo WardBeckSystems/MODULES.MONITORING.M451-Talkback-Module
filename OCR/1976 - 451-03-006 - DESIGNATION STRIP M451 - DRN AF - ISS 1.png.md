@@ -1,5 +1,5 @@
 # 1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1.png
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1976 (title block date)

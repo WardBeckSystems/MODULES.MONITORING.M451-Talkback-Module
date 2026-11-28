@@ -1,5 +1,5 @@
 # 1977 - M451 - 451-02-001 - TALKBACK MODULE SCHEMATIC.jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

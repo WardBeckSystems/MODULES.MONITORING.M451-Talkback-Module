@@ -1,5 +1,5 @@
 # 1978 - M451 - Talkback Module.pdf
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1978 (found in this file: "IS SUE IZ ps BS FEB. 1978")

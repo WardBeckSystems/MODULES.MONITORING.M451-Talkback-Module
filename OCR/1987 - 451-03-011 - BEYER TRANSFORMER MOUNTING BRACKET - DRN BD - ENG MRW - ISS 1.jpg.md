@@ -1,5 +1,5 @@
 # 1987 - 451-03-011 - BEYER TRANSFORMER MOUNTING BRACKET - DRN BD - ENG MRW - ISS 1.jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1987 (title block date)

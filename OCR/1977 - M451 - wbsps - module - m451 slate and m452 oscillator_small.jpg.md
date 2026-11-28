@@ -1,5 +1,5 @@
 # 1977 - M451 - wbsps - module - m451 slate and m452 oscillator_small.jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

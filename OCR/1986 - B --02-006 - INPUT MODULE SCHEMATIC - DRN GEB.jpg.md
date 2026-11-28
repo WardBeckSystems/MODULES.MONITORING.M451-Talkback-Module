@@ -1,5 +1,5 @@
 # 1986 - B --02-006 - INPUT MODULE SCHEMATIC - DRN GEB.jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1986 (title block date)

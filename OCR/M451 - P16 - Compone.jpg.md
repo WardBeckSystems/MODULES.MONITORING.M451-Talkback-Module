@@ -1,5 +1,5 @@
 # M451 - P16 - Compone.jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** unknown (title block (read by eye))

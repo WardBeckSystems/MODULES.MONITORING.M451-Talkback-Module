@@ -1,5 +1,5 @@
 # 1977 - M451 - Talkback Module (2).pdf
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1977 (found in this file: "REVISION 9/77")

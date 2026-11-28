@@ -1,5 +1,5 @@
 # 1977 - 451-01-001 - TALKBACK MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3 (2).jpg
-Wiki page: [M451](../../../../PAGES/M451.md)
+Wiki page: [M451](../)
 
 
 - **Year:** 1977 (title block date)
