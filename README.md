@@ -4,13 +4,12 @@ Ward-Beck Systems M451, 1976|9. Wiki page: [M451 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 43 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 34 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 241 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 42 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 35 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 240 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 57 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -154,8 +153,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1urwba6jnUp8INap5BSVOME4jbBn0A5bj/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1urwba6jnUp8INap5BSVOME4jbBn0A5bj" width="240" alt="19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER.jpg"></a><br><sub>19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER · <a href="MECHANICAL/19xx%20-%20M451%20-%20DOC%20-%20451-03-011%20-%20BEYER%20TRANSFORMER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1iTXqCh9ykPfM-1I7E2DWjxtLcB_I-01p/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1iTXqCh9ykPfM-1I7E2DWjxtLcB_I-01p" width="240" alt="19xx - M451 - DOC - RAS MOUNTING BRACKET.png"></a><br><sub>19xx - M451 - DOC - RAS MOUNTING BRACKET · <a href="MECHANICAL/19xx%20-%20M451%20-%20DOC%20-%20RAS%20MOUNTING%20BRACKET%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1.png`, `1977 - 451-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2.png`, `1987 - 451-03-011 - BEYER TRANSFORMER MOUNTING BRACKET - DRN BD - ENG MRW - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M451.stl`](MECHANICAL/M451.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M451)
@@ -174,8 +171,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/14YqAMmWY67ClNiUGVpqIYMz3p16r2tE6/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=14YqAMmWY67ClNiUGVpqIYMz3p16r2tE6" width="240" alt="1992 - M451 - DOC - 920063-01-002 - PQWER DISIEIBUTIQN PSI.jpg"></a><br><sub>1992|25 · DOC - 920063-01-002 - PQWER DISIEIBUTIQN PSI · <a href="SCHEMATICS/1992%20-%20M451%20-%20DOC%20-%20920063-01-002%20-%20PQWER%20DISIEIBUTIQN%20PSI%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1nJeQ_Iu1uv8ogrX0tFetqlUTM2GrXESA/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1nJeQ_Iu1uv8ogrX0tFetqlUTM2GrXESA" width="240" alt="1992 - M451 - DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS.jpg"></a><br><sub>1992|25 · DOC - 920383-01-001 - MONITOR MQDULE SWTCHEO DIRECT FUTURE MONITOR OUTPUTS · <a href="SCHEMATICS/1992%20-%20M451%20-%20DOC%20-%20920383-01-001%20-%20MONITOR%20MQDULE%20SWTCHEO%20DIRECT%20FUTURE%20MONITOR%20OUTPUTS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18ZIdsfxbvvDyfiD84MlNDV3km1vg2hR2/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18ZIdsfxbvvDyfiD84MlNDV3km1vg2hR2" width="240" alt="19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC.png"></a><br><sub>19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M451%20-%20DOC%20-%20600-02-008%20-%20TALKBACK%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 451-01-001 - TALKBACK MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3 (2).jpg`, `1977 - 451-01-001 - TALKBACK MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg`, `1986 - B --02-006 - INPUT MODULE SCHEMATIC - DRN GEB.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -183,8 +178,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVy1WRUZSSWJmNXc/view?resourcekey=0-rK7HA26p2OUUnOPNVJHCoQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVy1WRUZSSWJmNXc&resourcekey=0-rK7HA26p2OUUnOPNVJHCoQ" width="240" alt="1977 - M451 - P17 - Pin Outs.jpg"></a><br><sub>1977|10 · P17 - Pin Outs · <a href="PINOUTS/1977%20-%20M451%20-%20P17%20-%20Pin%20Outs%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M451 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -263,8 +256,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVFBmX2RsU3ZpMmM/view?resourcekey=0-HxddTfJi3Ix3Fjzk54EIdQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVFBmX2RsU3ZpMmM&resourcekey=0-HxddTfJi3Ix3Fjzk54EIdQ" width="240" alt="19xx - M451 - DOC - R1400-R2400 - 007.jpg"></a><br><sub>19xx - M451 - DOC - R1400-R2400 - 007</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSl92a2Vxa2NMc2s/view?resourcekey=0-2dfokMOlctdKaW5lsZMp_g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSl92a2Vxa2NMc2s&resourcekey=0-2dfokMOlctdKaW5lsZMp_g" width="240" alt="19xx - M451 - DOC - R1400-R2400 - 014.jpg"></a><br><sub>19xx - M451 - DOC - R1400-R2400 - 014</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M451 - P16 - Compone.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -284,7 +275,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M451 - DOC - 600-02-008 - TALKBACK SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M451%20-%20DOC%20-%20600-02-008%20-%20TALKBACK%20SCHEMATIC.kicad_sch)
 - [M451 - P14 - Functional Diagram.kicad_sch](KICAD/M451%20-%20P14%20-%20Functional%20Diagram.kicad_sch)
 - [M451.kicad_sym](KICAD/M451.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
